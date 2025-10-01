@@ -1,0 +1,615 @@
+[
+    {
+        "arrivals": [
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLCB",
+                        "iata": "CBB",
+                        "name": "Cochabamba",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:20Z",
+                        "local": "2025-09-01 07:20-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 08:05-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 602",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLVR",
+                        "iata": "VVI",
+                        "name": "Santa Cruz de la Sierra",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:35Z",
+                        "local": "2025-09-01 07:35-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 08:40-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 663",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLSU",
+                        "iata": "SRE",
+                        "name": "Sucre",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 08:40-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:40Z",
+                        "local": "2025-09-01 09:40-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 561",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Bombardier CRJ"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLUY",
+                        "iata": "UYU",
+                        "name": "Quijarro",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:15Z",
+                        "local": "2025-09-01 09:15-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 10:15-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 305",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLCB",
+                        "iata": "CBB",
+                        "name": "Cochabamba",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:10Z",
+                        "local": "2025-09-01 10:10-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:55Z",
+                        "local": "2025-09-01 10:55-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 606",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLCO",
+                        "iata": "CIJ",
+                        "name": "Cobija",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:15Z",
+                        "local": "2025-09-01 11:15-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 16:25Z",
+                        "local": "2025-09-01 12:25-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 403",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLCB",
+                        "iata": "CBB",
+                        "name": "Cochabamba",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 16:25Z",
+                        "local": "2025-09-01 12:25-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 17:10Z",
+                        "local": "2025-09-01 13:10-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 610",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SPZO",
+                        "iata": "CUZ",
+                        "name": "Cusco",
+                        "timeZone": "America/Lima"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 17:05Z",
+                        "local": "2025-09-01 12:05-05:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 18:20Z",
+                        "local": "2025-09-01 14:20-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "AV 105",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A320 NEO"
+                },
+                "airline": {
+                    "name": "Avianca",
+                    "iata": "AV",
+                    "icao": "AVA"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLVR",
+                        "iata": "VVI",
+                        "name": "Santa Cruz de la Sierra",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 17:35Z",
+                        "local": "2025-09-01 13:35-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 18:40Z",
+                        "local": "2025-09-01 14:40-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 671",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLVR",
+                        "iata": "VVI",
+                        "name": "Santa Cruz de la Sierra",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 19:05Z",
+                        "local": "2025-09-01 15:05-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 20:10Z",
+                        "local": "2025-09-01 16:10-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 673",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLCB",
+                        "iata": "CBB",
+                        "name": "Cochabamba",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 19:30Z",
+                        "local": "2025-09-01 15:30-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 20:15Z",
+                        "local": "2025-09-01 16:15-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 616",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLVR",
+                        "iata": "VVI",
+                        "name": "Santa Cruz de la Sierra",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 20:50Z",
+                        "local": "2025-09-01 16:50-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 21:55Z",
+                        "local": "2025-09-01 17:55-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 675",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLVR",
+                        "iata": "VVI",
+                        "name": "Santa Cruz de la Sierra",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 21:20Z",
+                        "local": "2025-09-01 17:20-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 22:25Z",
+                        "local": "2025-09-01 18:25-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 677",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SCEL",
+                        "iata": "SCL",
+                        "name": "Santiago",
+                        "timeZone": "America/Santiago"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 19:55Z",
+                        "local": "2025-09-01 15:55-04:00"
+                    },
+                    "terminal": "2",
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 23:10Z",
+                        "local": "2025-09-01 19:10-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 1727",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Bombardier CRJ"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLCB",
+                        "iata": "CBB",
+                        "name": "Cochabamba",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 22:35Z",
+                        "local": "2025-09-01 18:35-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 23:20Z",
+                        "local": "2025-09-01 19:20-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 620",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "SLVR",
+                        "iata": "VVI",
+                        "name": "Santa Cruz de la Sierra",
+                        "timeZone": "America/La_Paz"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 22:25Z",
+                        "local": "2025-09-01 18:25-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 23:30Z",
+                        "local": "2025-09-01 19:30-04:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "number": "OB 977",
+                "status": "Unknown",
+                "codeshareStatus": "Unknown",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "BoA",
+                    "iata": "OB",
+                    "icao": "BOV"
+                }
+            }
+        ]
+    }
+]
